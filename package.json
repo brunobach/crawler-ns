@@ -1,0 +1,17 @@
+{
+  "name": "webscrapping",
+  "version": "1.0.0",
+  "description": "Um simples crawler para capturar Chamados NS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Bruno Bach",
+  "homepage": "github.com/brunobach",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "cheerio": "z^1.0.0-rc.10"
+  }
+}
